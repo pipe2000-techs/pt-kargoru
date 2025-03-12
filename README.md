@@ -8,7 +8,7 @@
 BackEnd configuración:  
 
 - ./BackEnd/src/database/db.sql = En esta ruta se encuentra la estructura de la base de datos.
-- ./BackEnd/src/config.js =   En esta ruta se encuentra el archivo de configuración de la base de datos de PostgreSql y el puerto del servidor de Node.
+- ./BackEnd/src/config.js = En esta ruta se encuentra el archivo de configuración de la base de datos de PostgreSql y el puerto del servidor de Node.
 - ./BackEnd = ingresar por terminal a esta ruta y ejecutar el comando “npm run dev“.
 
 FrontEnd configuración:
