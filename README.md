@@ -2,7 +2,8 @@
 
 
 
-## Prueba técnica Cotización marítima con React, Node js, PostgreSql, bootstrap y sweet alert
+## Prueba técnica Cotización marítima 
+## con React, Node js, PostgreSql, bootstrap y sweet alert
 
 BackEnd configuración:  
 
