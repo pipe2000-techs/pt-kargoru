@@ -1,0 +1,8 @@
+#inicializa node:
+- npm init -y
+
+#instala express, y luego istala morgan pare ver las peticiones por sosola y tambien istala pg para trabahar con progresqsql
+- npm i express morgan pg
+
+#ejecutar el servidor.
+- npm run dev
